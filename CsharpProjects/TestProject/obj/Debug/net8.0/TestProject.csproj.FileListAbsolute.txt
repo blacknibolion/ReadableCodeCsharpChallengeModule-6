@@ -12,3 +12,4 @@ C:\Users\onibo\Documents\reporsitory\Csharp code challenge\ReadableCode\CsharpPr
 C:\Users\onibo\Documents\reporsitory\Csharp code challenge\ReadableCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\onibo\Documents\reporsitory\Csharp code challenge\ReadableCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\onibo\Documents\reporsitory\Csharp code challenge\ReadableCode\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\onibo\Documents\reporsitory\Csharp code challenge\ReadableCode\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
