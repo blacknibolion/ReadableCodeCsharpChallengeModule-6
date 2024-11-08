@@ -32,8 +32,9 @@ foreach (var orderID in orderIDs)
 
 //The high-level purpose of this code is to reverse a string 
 //and count the number of times a particular character appears.
-string message = "The quick brown fox jumps over the lazy dog.";
+//string message = "The quick brown fox jumps over the lazy dog.";
 
+/*
 char[] newMessage = message.ToCharArray();
 
 Array.Reverse(newMessage);
@@ -51,3 +52,13 @@ foreach (char character in newMessage){
   //print it out
   Console.WriteLine(updatedMessage);
   Console.WriteLine($"'o' appears {countLetter} times");
+  */
+
+bool flag = true;
+int value = 0;
+if(flag){
+  
+  Console.WriteLine($"Inside value in the block is: {value}");
+}
+value = 10;
+Console.WriteLine($"Outside value in the block is: {value}");
